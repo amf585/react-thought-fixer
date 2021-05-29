@@ -1,4 +1,4 @@
-# react-thought-fixer
+# ReactJS Thought Fixer App
 I wanted to learn some new technologies while creating an app that could help others.
 This is a simple app to help users identify and remedy negative thought patterns.
 
