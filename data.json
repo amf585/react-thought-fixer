@@ -1,0 +1,101 @@
+[
+    {
+        "title" : "All or Nothing Thinking", 
+        "description" : "All or nothing thinking means thinking in \"extremes\" and often involves exaggerating negative situations. With this type of thinking an individual sees situations and outcomes as either great or terrible, with no in-between. This type of thinking often leads to unrealistic and inaccurate evaluations of self and others.",
+        "example" : "Being stumped by a single question at a job interview and determining that the remaining 99% of the interview that you did well at was also horrible.",
+        "keywords" : [
+            "all", "always", "cant", "can't", "cannot", "completely", "every", "everyone", "everything", "forever", "never", "none", "noone", "only", "totally"
+        ],
+        "actions" : [
+            "Evaluate the problem on a scale from 0-100 and work towards reducing either-or (0 or 100) thinking.",
+            "Credit yourself for partial success on a scale of 0-100.",
+            "Don’t put yourself in the “never-always-every” box. Challenge yourself to think of times when these words were not true."
+        ]
+    },
+    {
+        "title" : "Catastrophizing", 
+        "description" : "Catastrophizing means thinking that something is far worst than it actually is.",
+        "example" : "Failing one test in a course and then thinking you will fail the class, will need to drop out of school, and will never get a job.",
+        "keywords" : [
+            "will", "worst", "wont", "won't", "and then", "will have to", "will never", "will not"
+        ],
+        "actions" : [
+            "Think positive! Take the event for what it is and don’t make it anything other than that.",
+            "We all have difficult situations and events in our lives. Learn from those challenging events and believe that you can create positive growth from them.",
+            "Remember that a single negative experience doesn’t hold true forever."
+        ]
+    },
+    {
+        "title" : "Personalization", 
+        "description" : "Personalization may involve assuming personal responsibility for negative external events. This type of thinking may also involve one thinking they are at fault for events that they are not the cause of. One other way this type of thinking can occur is when someone begins to constantly compare themselves to others.",
+        "example" : "Having your sports team lose and unfairly placing the blame entirely on yourself.",
+        "keywords" : [
+            "my fault", "i suck", "i am terrible", "i am horrible", "i am bad", "if i only", "if only i"
+        ],
+        "actions" : [
+            "Carefully evaluate situations to determine whether or not you actually have any responsibility for the outcome.",
+            "Don’t place unnecessary blame on yourself for the actions and responsibilities of others. Focus on what you can control."
+        ]
+    },
+    {
+        "title" : "Disqualifying the Positive", 
+        "description" : "Disqualifying the positive means Focusing entirely on the negatives and ignoring the positives of a given situation.",
+        "example" : "Making one awkward comment at a social event, and then feeling like everyone hates you, even though everything else you talked about was well received.",
+        "keywords" : [
+            "just", "only"
+        ],
+        "actions" : [
+            "Embrace the positives in your life and take pride in your accomplishments.",
+            "Credit yourself for the great things you have achieved"
+        ]
+    },
+    {
+        "title" : "Jumping to Conclusions", 
+        "description" : "Jumping to conclusions means making unrealistic and negative assumptions regarding what will happen or how things are.",
+        "example" : "Assuming that someone does not like you because they made a strange expression while looking in your direction.",
+        "keywords" : [
+            "will", "must", "probably"
+        ],
+        "actions" : [
+            "Take a step back and ask yourself \"do I really know this to be true?\"",
+            "Focus on the things that you 100% know to be true."
+        ]
+    },
+    {
+        "title" : "Shoulds and Oughts", 
+        "description" : "Shoulds, Musts, and Oughts are typically used when trying to motivate yourself by internally saying you should do something. This can lead to feelings of guilt as you put unrealistic demands on yourself.",
+        "example" : "Thinking that you must make everyone happy with your choices.",
+        "keywords" : [
+            "should", "ought", "must", "need", "have"
+        ],
+        "actions" : [
+            "Acknowledge your accomplishments.",
+            "Accept that you are human and capable of both achievements and mistakes, and that is okay.",
+            "Don't be so hard on yourself. Work on setting realistic goals and recognizing all of your qualities and achievements."
+        ]
+    },
+    {
+        "title" : "Emotional Reasoning", 
+        "description" : "Emotional reasoning is when you assume that your emotions reflect the way things actually are.",
+        "example" : "Feeling unattractive and then believing that this means others do not find you beautiful.",
+        "keywords" : [
+            "feel"
+        ],
+        "actions" : [
+            "Accept that feelings do not equal facts."
+        ]
+    },
+    {
+        "title" : "General Negativity", 
+        "description" : "General negativity means fixating on negative aspects of a given situation and/or failing to find the positives.",
+        "example" : "If you find yourself complaining about/critical of many aspects of your life, you may have developed a negative mindset.",
+        "keywords" : [
+            "sucks", "hate", "stupid", "gross", "ugly", "lazy", "fat", "bad", "terrible", "horrible", "awful"
+        ],
+        "actions" : [
+            "Recognize that there are many things you cannot control, and that is okay.",
+            "Focus your energy on things you can control.",
+            "Make a positive impact on someone's life each day."
+        ]
+    }
+]

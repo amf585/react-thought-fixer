@@ -1,0 +1,13 @@
+#root {
+    flex: 1;
+    button:disabled {
+        background-color: #ffffff;
+        color: rgba(0,0,0,.4);
+        &:hover {
+            cursor: not-allowed;
+        }
+    }
+    .main-card {
+        box-shadow: 0 2px 4px 0 hsla(198, 45%, 10%, .12);
+    }
+}  
