@@ -2,8 +2,6 @@
 I wanted to learn some new technologies while creating an app that could help others.
 This is a simple app to help users identify and remedy negative thought patterns.
 
-Live Demo - https://thought-fixer.herokuapp.com/
-
 Technologies Used: React, Redux, MongoDB, Mongoose, NodeJS, Express, Axios, SASS, Tachyons Atomic CSS, Heroku
 
 ### Demo GIF:
